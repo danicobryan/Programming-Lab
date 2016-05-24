@@ -1,11 +1,6 @@
 # Programming-Lab
 
-Danico Pidlaoan
-
-CMSI 186
-
-Loyola Marymount University
-
+Danico Pidlaoan, CMSI 186, Loyola Marymount University
 
 Assignment 1: Date Distance
 
