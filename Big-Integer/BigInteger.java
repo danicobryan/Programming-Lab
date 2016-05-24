@@ -16,10 +16,7 @@ public class BigInteger{
 			this.positive = false;
 			index += 1;
 		}
-		// add each each digit in val if total = 0
-		//skip while loop
-		//sign = pos
-		//val = "0"
+		
 		int sumOfDigits = 0;
 		for(int i = 0; i < val.length(); i++){
 			char c = val.charAt(i);
